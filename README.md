@@ -1,5 +1,5 @@
 Web Application contain this technologies:
 
-1 Backend : Laravel Framework.
-2 Frontend : Angular Framework.
-3 Authentication : JWT.
+<br> Backend : Laravel Framework.
+<br> Frontend : Angular Framework.
+<br> Authentication : JWT.
