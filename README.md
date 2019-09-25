@@ -1,4 +1,4 @@
-Web Application contain this technologies:
+Web Application contain these technologies:
 
 <br> Backend : Laravel Framework.
 <br> Frontend : Angular Framework.
